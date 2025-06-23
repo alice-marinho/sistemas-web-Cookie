@@ -1,0 +1,3 @@
+com\logicbig\example\ExchangeRatesServlet.class
+com\logicbig\example\AddExchangeRateCookieServlet.class
+com\logicbig\example\RemoveExchangeRateCookieServlet.class
