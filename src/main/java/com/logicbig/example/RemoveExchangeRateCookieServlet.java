@@ -1,3 +1,11 @@
+/**
+ * 
+ * Desenvolvido por:
+ * @author Alice Marinho
+ * @author Matheus Leandro
+ * 
+ */
+
 package com.logicbig.example;
 
 import javax.servlet.RequestDispatcher;
@@ -16,10 +24,6 @@ import java.util.Optional;
         urlPatterns = {"/remove-currency-pair"},
         loadOnStartup = 1)
 public class RemoveExchangeRateCookieServlet extends HttpServlet {
-
-    /**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 
 	@Override
