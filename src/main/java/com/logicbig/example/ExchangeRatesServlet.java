@@ -1,3 +1,10 @@
+/**
+ * 
+ * Desenvolvido por:
+ * @author Alice Marinho
+ * @author Matheus Leandro
+ * 
+ */
 package com.logicbig.example;
 
 import javax.servlet.RequestDispatcher;
